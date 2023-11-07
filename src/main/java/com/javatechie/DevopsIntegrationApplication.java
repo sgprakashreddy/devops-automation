@@ -18,6 +18,7 @@ public class DevopsIntegrationApplication {
 
     public static void main(String[] args) {
         logger.info("********* DevopsIntegrationApplication Executed ********* ");
+        logger.info("********* logs are added ********* ");
         SpringApplication.run(DevopsIntegrationApplication.class, args);
     }
 
