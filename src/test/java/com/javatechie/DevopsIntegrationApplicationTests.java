@@ -12,7 +12,7 @@ class DevopsIntegrationApplicationTests {
     public static Logger logger= LoggerFactory.getLogger(DevopsIntegrationApplication.class);
 
     @Test
-    void contextLoads() {
+    public  contextLoads() {
         logger.info("******** Test cases are executing  ******");
     }
 
