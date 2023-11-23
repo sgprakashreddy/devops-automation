@@ -36,7 +36,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>devops-integration</finalName>
+        <finalName>spring-jenkins-devops-integration</finalName>
     </build>
 
 </project>
